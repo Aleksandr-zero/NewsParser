@@ -1,0 +1,40 @@
+1) infosecurity --> Информационная безопасность
+2) popular_science --> Научно-популярное
+3) programming --> Программирование
+4) itcompanies --> IT-компании
+5) gamedev --> Разработка игр
+6) career --> Карьера в IT-индустрии
+7) webdev --> Разработка веб-сайтов
+8) sys_admin --> Системное администрирование
+9) crypto --> Криптография
+10) maths --> Математика
+11) health --> Здоровье
+12) DIY --> DIY или Сделай сам
+13) python --> Python
+14) algorithms --> Алгоритмы
+15) electronics --> Производство и разработка электроники
+16) read --> Читальный зал
+17) machine_learning --> Машинное обучение
+18) hardware --> Компьютерное железо
+19) devops --> DevOps
+20) open_source --> Open source
+21) javascript --> JavaScript
+22) hr_management --> Управление персоналом
+23) physics --> Физика
+24) history --> История IT
+25) pm --> Управление проектами
+26) easyelectronics --> Электроника для начинающих
+27) games --> Игры и игровые приставки
+28) biotech --> Биотехнологии
+29) dev_management --> Управление разработкой
+30) lifehacks --> Лайфхаки для гиков
+31) business-laws --> Законодательство в IT
+32) geo --> Геоинформационные сервисы
+33) linux --> Настройка Linux
+34) space --> Космонавтика
+35) java --> Java
+36) it-infrastructure --> IT-инфраструктура
+37) futurenow --> Будущее здесь
+38) cpp --> C++
+39) soft --> Софт
+40) analysis_design --> Анализ и проектирование систем

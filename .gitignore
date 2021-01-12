@@ -1,0 +1,5 @@
+settings/
+tests/
+dataArticles/
+__pycache__/
+tests/test.py
