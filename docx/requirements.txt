@@ -1,4 +1,4 @@
-lxml==4.6.2
+lxml==4.6.3
 bs4==4.9.0
 requests==2.25.0
 click==7.1.2
